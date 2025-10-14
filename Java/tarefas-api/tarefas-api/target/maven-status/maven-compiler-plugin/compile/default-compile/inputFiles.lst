@@ -1,0 +1,4 @@
+/home/ubuntu/tarefas-api/src/main/java/com/example/tarefasapi/TarefasApiApplication.java
+/home/ubuntu/tarefas-api/src/main/java/com/example/tarefasapi/repository/TarefaRepository.java
+/home/ubuntu/tarefas-api/src/main/java/com/example/tarefasapi/controller/TarefaController.java
+/home/ubuntu/tarefas-api/src/main/java/com/example/tarefasapi/model/Tarefa.java
